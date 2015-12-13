@@ -1,19 +1,21 @@
-title:            HPSTR Theme
-description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
+title:            Hanoi's favourite vegetarian resturant
+description:      "Best Small Veggie place in Hanoi. All vegetarian all the time."
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
-url:              //mmistakes.github.io/hpstr-jekyll-theme
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:http://bodequan.github.io
 
 # Owner/author information
 owner:
-  name:           Michael Rose
-  avatar:         avatar.jpg
-  bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
-  email:          
+  name:           Linh Trang Cao 
+  avatar:         https://www.facebook.com/photo.php?fbid=475689442610272&set=a.107697382742815.10970.100005076604837&type=3
+  bio:            "Let me show great vegetarian Vietnamese food"."
+  phone:          0128 639 8889
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        mmistakes
-  facebook:       
+  twitter:        
+  facebook:     https://www.facebook.com/BoDeHanoi/      
   github:         mmistakes
   stackexchange:  
   linkedin:       
